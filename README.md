@@ -1,2 +1,2 @@
 # ml-alogirthms
-Writing few important Machine Learning algorithms from scartch
+Writing few important Machine Learning algorithms from scratch
